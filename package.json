@@ -1,0 +1,24 @@
+{
+  "name": "nodeapp-docker-jenkins-terraform-aws",
+  "version": "1.0.0",
+  "description": "A Node.js application is automatically deployed to AWS EC2 using a CI/CD pipeline built with Docker, Jenkins, and Terraform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christabel-dev530/nodeapp-docker-jenkins-terraform-aws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Christabel-dev530/nodeapp-docker-jenkins-terraform-aws/issues"
+  },
+  "homepage": "https://github.com/Christabel-dev530/nodeapp-docker-jenkins-terraform-aws#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
